@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ddhh on Julián Álvarez Fotografía</title>
+    <link>http://localhost:50051/ddhh/</link>
+    <description>Recent content in Ddhh on Julián Álvarez Fotografía</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>fotojulianalvarez@gmail.com (Julián Álvarez)</managingEditor>
+    <webMaster>fotojulianalvarez@gmail.com (Julián Álvarez)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:50051/ddhh/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
